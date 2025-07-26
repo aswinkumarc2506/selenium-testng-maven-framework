@@ -58,8 +58,8 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/saucedemo-login-automation.git
-cd saucedemo-login-automation
+git clone https://github.com/aswinkumarc2506/selenium-testng-maven-framework/tree/main
+
 Download ChromeDriver matching your Chrome version:
 👉 https://chromedriver.chromium.org/downloads
 
